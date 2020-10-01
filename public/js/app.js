@@ -22,3 +22,5 @@ weatherForm.addEventListener('submit', (e) => {
         })
     })
 })
+
+//it needs to be updated
